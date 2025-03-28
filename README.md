@@ -13,7 +13,7 @@ Este repositório contém a implementação do desafio proposto pela Global Hits
 2. **Abra o console do navegador:** No Chrome, pressione `F12` ou `Ctrl + Shift + J` para abrir o DevTools na aba "Console";
 3. **Copie e cole os códigos disponíveis neste repositório** no console e pressione Enter para executar as alterações propostas.
 
-## Tarefas do Desafio
+## Tarefas do Desafio -> respostas no docx
 
 - Alterar o texto do menu “Atendimento” para “Teste CRO”;
 - Alterar o background e ícones do card “Consumo de internet”;
